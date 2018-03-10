@@ -7,7 +7,7 @@
 public class Squared {
 
 	public static void main(String[] args) {
-		int n = 123333;
+		float n = 1231122231;
 		System.out.println("Quadrat: " + n * n);
 
 	}
