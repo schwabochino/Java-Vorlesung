@@ -6,7 +6,8 @@ public class Variablen {
 		long a, b, c, minimum;
 		a=0;
 		b=1;
-		c=2;
+		c=
+				2;
 		
 		System.out.println("Minimum: "+ Math.min(Math.min(a, b),c));
 
