@@ -1,6 +1,6 @@
 class Kuh
 {
-	char name;// = Elsa;
+	char name = "Elsa";
 	char nachname;// = Euter;
 	int geburtsjahr; // = 1998;
 	float gewicht;
