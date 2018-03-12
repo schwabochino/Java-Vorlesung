@@ -1,13 +1,14 @@
 
-public class schachbrett {
+public class schachbrett 
+{
 
-	public static void main(String[] args) {
-		int i,y=0,x=0;
-		
-		for (i=0; i>=64; i++)
+	public static void main(String[] args) 
+	{
+		int i;
+		for(i=0; i<8; i++);
 		{
-			if
+			System.out.printf("#");
 		}
+		
 	}
-
 }
